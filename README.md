@@ -57,15 +57,6 @@ Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence stu
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Geethika2506&style=flat-square&color=00bfbf" alt="Visitor count" />
-  </p>
-  <br>
-</div>
-
 <h2 align="center">Thanks for visiting my profile.</h2>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
