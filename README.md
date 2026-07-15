@@ -12,12 +12,13 @@ Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence stu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,cpp,cs,html,css,php,androidstudio,ps,notion,docker,aws,azure,flutter,dart" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,cpp,cs,html,css,php,androidstudio,ps,notion,docker,aws,azure,flutter,dart,fastapi,tensorflow,pytorch" alt="My Skills" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-111111?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
 </p>
 
