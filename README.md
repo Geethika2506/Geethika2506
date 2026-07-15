@@ -29,7 +29,7 @@ Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence stu
     <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Geethika2506&show_icons=true&theme=aura&hide_border=false" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Geethika2506">
-    <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geethika2506&layout=compact&theme=aura&hide_border=false" alt="Top languages" />
+    <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geethika2506&layout=compact&theme=aura&hide_border=false&hide=Jupyter%20Notebook,HTML" alt="Top languages" />
   </a>
 </p>
 
