@@ -12,7 +12,7 @@ Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence stu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,cpp,cs,html,css,php,androidstudio,ps,notion" alt="My Skills" />
   </a>
 </p>
 
