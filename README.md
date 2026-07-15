@@ -41,7 +41,7 @@ Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence stu
 
 <p align="center">
   <a href="https://github.com/Geethika2506">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethika2506&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethika2506&theme=react-dark&hide_border=true&days=30&area=true&custom_title=Monthly%20Contributions" alt="Monthly contribution activity graph" />
   </a>
 </p>
 
