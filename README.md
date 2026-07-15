@@ -8,47 +8,34 @@
 
 Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence student at IE University with a growth mindset and hands-on experience building real applications. I work across machine learning, backend APIs, and full-stack development — from fraud detection models and NLP classifiers to Flutter + FastAPI apps. Comfortable with Python, Git, and Agile collaboration, I focus on delivering clean, practical solutions and keep learning by shipping.
 
-### 📈 GitHub Activity Graph:
+### Main skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion" alt="My Skills" />
+  </a>
+</p>
+
+### 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Geethika2506">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=Geethika2506&theme=aura&hide_border=false&border_radius=10" />
+    <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Geethika2506&show_icons=true&theme=aura&hide_border=false" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/Geethika2506">
+    <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geethika2506&layout=compact&theme=aura&hide_border=false" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Geethika2506">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geethika2506&theme=aura" />
-  </a>
-  <a href="https://github.com/Geethika2506">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geethika2506&theme=aura" />
+    <img height="165em" src="https://streak-stats.demolab.com?user=Geethika2506&theme=aura&hide_border=false&border_radius=10" alt="GitHub streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Geethika2506">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geethika2506&theme=aura" />
-  </a>
-  <a href="https://github.com/Geethika2506">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geethika2506&theme=aura&utcOffset=2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Geethika2506">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geethika2506&theme=aura" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethika2506&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
   </a>
 </p>
 
@@ -68,7 +55,7 @@ Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence stu
   <br>
   <p align="center"><b>Visitors Count</b></p>
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Geethika2506}/count.svg" alt="Visitor count" />
+    <img src="https://komarev.com/ghpvc/?username=Geethika2506&style=flat-square&color=00bfbf" alt="Visitor count" />
   </p>
   <br>
 </div>
