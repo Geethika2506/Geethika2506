@@ -46,7 +46,7 @@ Hi! I'm Geethika Reddy Konda, a Computer Science and Artificial Intelligence stu
 </p>
 
 <div align="center">
-  <a href="mailto:gkonda.ieu2023@student.ie.edu">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gkonda.ieu2023@student.ie.edu" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/geethikareddykonda/">
